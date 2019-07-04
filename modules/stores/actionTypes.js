@@ -1,0 +1,5 @@
+const prefix = `STORE_`;
+
+export const AVAILABLE_STORES = `${prefix}AVAILABLE_STORES`;
+export const AVAILABLE_STORES_SUCCESS = `${prefix}AVAILABLE_STORES_SUCCESS`;
+export const AVAILABLE_STORES_FAILURE = `${prefix}AVAILABLE_STORES_FAILURE`;

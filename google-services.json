@@ -1,0 +1,370 @@
+{
+  "project_info": {
+    "project_number": "247438696562",
+    "firebase_url": "https://emc-v3.firebaseio.com",
+    "project_id": "emc-v3",
+    "storage_bucket": "emc-v3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247438696562:android:7e0f945aa2ef41aa",
+        "android_client_info": {
+          "package_name": "com.egrove.elitegrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247438696562-g15us1laecrbklhi065f7ao7naovarc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.elitegrocery",
+            "certificate_hash": "93ac0787627e264a2475190465960827578d5553"
+          }
+        },
+        {
+          "client_id": "247438696562-kjh5p6vnt19psa49g0e60gn21gchpha7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.elitegrocery",
+            "certificate_hash": "5ab96da097af4760e192da0c88fa22b843f96968"
+          }
+        },
+        {
+          "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8n4nNCHKkixoOnakvPqZsvNNor6T_pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247438696562-gf25ksqu179fm3l2egt8cpvv6tf5a7s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eGrove.EMC3.0",
+                "app_store_id": "1358214056"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247438696562:android:449b974409ab906c",
+        "android_client_info": {
+          "package_name": "com.egrove.eliteonestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247438696562-g6quh7nmflejapt95rju24kkjai2k1gg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.eliteonestore",
+            "certificate_hash": "5ab96da097af4760e192da0c88fa22b843f96968"
+          }
+        },
+        {
+          "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8n4nNCHKkixoOnakvPqZsvNNor6T_pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247438696562-gf25ksqu179fm3l2egt8cpvv6tf5a7s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eGrove.EMC3.0",
+                "app_store_id": "1358214056"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247438696562:android:e9444e2c2d5bdeab",
+        "android_client_info": {
+          "package_name": "com.egrove.emc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247438696562-pe9f8r560g25ia99ce1n6rvkpo4hvva8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.emc",
+            "certificate_hash": "a0d2ae4b3b22f38f8445773b759e1d7b9bd03810"
+          }
+        },
+        {
+          "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8n4nNCHKkixoOnakvPqZsvNNor6T_pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247438696562-gf25ksqu179fm3l2egt8cpvv6tf5a7s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eGrove.EMC3.0",
+                "app_store_id": "1358214056"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247438696562:android:7451d449941ac158",
+        "android_client_info": {
+          "package_name": "com.egrove.emcadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8n4nNCHKkixoOnakvPqZsvNNor6T_pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247438696562:android:83dc1e0979a625e8",
+        "android_client_info": {
+          "package_name": "com.egrove.emcv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247438696562-7nno960d88fmc80oiidvt8dro2mk26vp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.emcv3",
+            "certificate_hash": "8fd91b2f60bb9085a3822311e39a52b1dfdac40f"
+          }
+        },
+        {
+          "client_id": "247438696562-9ofj21nr2luku89im57kl1daabg3o9p5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.emcv3",
+            "certificate_hash": "5ab96da097af4760e192da0c88fa22b843f96968"
+          }
+        },
+        {
+          "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8n4nNCHKkixoOnakvPqZsvNNor6T_pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247438696562-gf25ksqu179fm3l2egt8cpvv6tf5a7s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eGrove.EMC3.0",
+                "app_store_id": "1358214056"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247438696562:android:77b9420318c04b69",
+        "android_client_info": {
+          "package_name": "com.egrove.feedgrocery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247438696562-k275gmp47br0kol75hagm50gvq68apjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.feedgrocery",
+            "certificate_hash": "93ac0787627e264a2475190465960827578d5553"
+          }
+        },
+        {
+          "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8n4nNCHKkixoOnakvPqZsvNNor6T_pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247438696562-gf25ksqu179fm3l2egt8cpvv6tf5a7s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eGrove.EMC3.0",
+                "app_store_id": "1358214056"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247438696562:android:0e56af70ef788283",
+        "android_client_info": {
+          "package_name": "com.egrove.redshoppers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247438696562-tpb10hgof6hrpj4jo5vlkl40kv44dl4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.egrove.redshoppers",
+            "certificate_hash": "e650ef03b6587d754a7d1040c85f25d47d9bdce5"
+          }
+        },
+        {
+          "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw8n4nNCHKkixoOnakvPqZsvNNor6T_pk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247438696562-4epmte7tbcogomskfdh81sfrmo1tg6gb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247438696562-gf25ksqu179fm3l2egt8cpvv6tf5a7s8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.eGrove.EMC3.0",
+                "app_store_id": "1358214056"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
